@@ -7,7 +7,7 @@ int main(){
    int slargest = -1;  
 
 
-   for ( int i = 0 ; i < 8 ; i++){
+   for ( int i = 1 ; i < 8 ; i++){
     if( arr[i] > largest ) {
         slargest = largest ; 
         largest = arr[i];
