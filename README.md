@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -51,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
