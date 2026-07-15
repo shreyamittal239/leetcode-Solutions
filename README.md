@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
