@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
