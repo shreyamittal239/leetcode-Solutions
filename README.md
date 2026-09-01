@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0829-consecutive-numbers-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
