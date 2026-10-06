@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0829-consecutive-numbers-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
