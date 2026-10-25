@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0125-valid-palindrome) |
