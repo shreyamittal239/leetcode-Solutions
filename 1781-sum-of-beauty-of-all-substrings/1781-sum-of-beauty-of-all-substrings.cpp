@@ -8,7 +8,7 @@ public:
             vector<int> freq(26, 0);
 
             for (int j = i; j < n; j++) {
-                // Update frequency of the newly added character
+                
                 freq[s[j] - 'a']++;
 
                 int maxi = 0;
