@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1915-number-of-wonderful-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1915-number-of-wonderful-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1915-number-of-wonderful-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0268-missing-number) |
+| [1915-number-of-wonderful-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
