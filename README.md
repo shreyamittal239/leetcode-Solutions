@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
 | ------- |
