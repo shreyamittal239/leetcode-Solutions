@@ -11,12 +11,7 @@ public:
             return 1;
         }
 
-        if( n < 0){
-            return ans;
-        }
-
         
-       
         ans = fib(n-1) + fib(n-2);
 
         return ans ;
