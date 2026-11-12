@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0829-consecutive-numbers-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
