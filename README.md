@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0829-consecutive-numbers-sum](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1915-number-of-wonderful-substrings](https://github.com/shreyamittal239/leetcode-Solutions/tree/master/1915-number-of-wonderful-substrings) |
 ## Depth-First Search
 |  |
