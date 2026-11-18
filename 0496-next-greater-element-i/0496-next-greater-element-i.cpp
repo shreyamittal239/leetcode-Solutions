@@ -4,7 +4,6 @@ public:
          stack<int> st;
         unordered_map<int, int> nextGreater;
 
-        // Find next greater element for every element in nums2
         for (int i = nums2.size() - 1; i >= 0; i--) {
 
             while (!st.empty() && st.top() <= nums2[i]) {
